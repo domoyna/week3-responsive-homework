@@ -23,7 +23,7 @@ img {
   p {
     color:blue;
     font-size: smaller;
-    justify-content: center;
+    text-align: center;
   }
 }
 }
@@ -58,8 +58,8 @@ p {
     border-radius: 4px;
     font-size: 18px;
     line-height: 1.5;
-    text-align: center;
-    justify-content: left;
+    text-align: left;
+    
 }
 
 .navigation-links {
