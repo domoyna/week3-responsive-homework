@@ -4,6 +4,28 @@
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+  
+
+@media {
+   img {
+    screen and (max-width: 480px) 
+            img {
+                display: none;
+
+}
+  body {
+    background-color: bisque;
+  }
+  p {
+    color:blue;
+    font-size: smaller;
+  }
+}
+}
 body {
     margin: 60px auto;
     max-width: 800px;
