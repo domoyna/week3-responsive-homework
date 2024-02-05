@@ -11,10 +11,9 @@ img {
   
 
 @media {
-   img {
-    screen and (max-width: 880px) 
+     screen and (max-width:767px) 
             img {
-                display: none;
+           display: none;
 
 }
   body {
@@ -26,7 +25,7 @@ img {
     text-align: center;
   }
 }
-}
+
 body {
     margin: 60px auto;
     max-width: 800px;
